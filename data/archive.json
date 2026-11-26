@@ -38,5 +38,9 @@
   "2026-11-26": {
     "morning": "murdock-2011-flood-recovery",
     "evening": "microbiome-2026-drought-history"
+  },
+  "2026-11-27": {
+    "morning": "hillebrand-1999-biovolume",
+    "evening": null
   }
 }
